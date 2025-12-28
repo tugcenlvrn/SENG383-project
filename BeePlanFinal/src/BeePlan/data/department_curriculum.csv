@@ -1,0 +1,44 @@
+Sınıf,Ders Kodu,Ders Adı,Teori Saati,Lab Saati,Zorunlu/Seçmeli/Servis,Öğretim Elemanı,Öğrenci Sayısı,Lab Şube Sayısı
+1. Sınıf,PHYS 131,Physics I (Fizik I),3,2,Zorunlu,---,---,---
+1. Sınıf,TURK 101,Turkish I (Türk Dili I),2,0,Zorunlu,---,---,---
+1. Sınıf,ENG 121,Academic English I (Akademik İngilizce I),3,0,Zorunlu,---,---,---
+1. Sınıf,MATH 157,Calculus for Engineering I (Mühendisler için Genel Matematik I),4,0,Zorunlu,---,---,---
+1. Sınıf,BIO 101,Introduction to Biology,3,0,Zorunlu,---,---,---
+1. Sınıf,ESR 103,Ethical Principles and Social Responsibility,1,0,Zorunlu,---,---,---
+1. Sınıf,SENG 101,Computer Programming I (Bilgisayar Programlama I),3,2,Zorunlu,S. Esmelioğlu,70,2
+2. Sınıf,HIST 201,Principles of Atatürk and History of Turkish Revolution I,2,0,Zorunlu,---,---,---
+2. Sınıf,MATH 223,Discrete Structures,3,0,Zorunlu,---,---,---
+2. Sınıf,SENG 201,Data Structures (Veri Yapıları),3,2,Zorunlu,İ. Bora Çelikkale,60,2
+2. Sınıf,SENG 206,Software Design (Yazılım Tasarımı),3,0,Zorunlu,S. K. Tunç,65,0
+2. Sınıf,SENG 271,Software Project I (Yazılım Projesi I),2,0,Zorunlu,---,---,---
+2. Sınıf,MATH 158,Calculus II,4,0,Zorunlu,---,---,---
+2. Sınıf,PHYS 132,Physics II,3,2,Zorunlu,---,---,---
+2. Sınıf,TURK 102,Turkish II,2,0,Zorunlu,---,---,---
+3. Sınıf,SENG 301,Software Project Management,2,2,Zorunlu,S. K. Tunç,45,2
+3. Sınıf,SENG 303,Software Testing for Quality Assurance,3,0,Zorunlu,S. Esmelioğlu,40,0
+3. Sınıf,SENG 315,Concurrent Programming,3,0,Zorunlu,B. Avenoğlu,40,0
+3. Sınıf,SENG 383,Software Project III (Yazılım Projesi III),0,2,Zorunlu,İ. Bora Çelikkale,40,2
+3. Sınıf,ELEC,Technical Elective II,3,0,Seçmeli,---,---,---
+3. Sınıf,SENG 200,Summer Training I,0,0,Zorunlu,T. Karadeniz,30,0
+3. Sınıf,MATH 205,Linear Algebra,4,0,Zorunlu,---,---,---
+3. Sınıf,HIST 202,Principles of Atatürk II,2,0,Zorunlu,---,---,---
+4. Sınıf,ELEC,Technical Elective IV,3,0,Seçmeli,---,---,---
+4. Sınıf,ELEC,Technical Elective V,3,0,Seçmeli,---,---,---
+4. Sınıf,SENG 426,Formal Methods in Software Development,4,0,Zorunlu,İ. Bora Çelikkale,30,0
+4. Sınıf,SENG 491,Graduation Project I (Mezuniyet Projesi I),1,0,Zorunlu,S. Esmelioğlu,36,0
+4. Sınıf,SENG 300,Summer Training II,0,0,Zorunlu,T. Karadeniz,25,0
+4. Sınıf,SENG 429,Enterprise Application Development Laboratory,1,2,Teknik Lab Seçmeli,B. Avenoğlu,35,1
+Seçmeli,SENG 465,Artificial Intelligence in Game Programming,3,0,Seçmeli,B. Avenoğlu,40,0
+Seçmeli,SENG 474,Human Computer Interaction,3,0,Seçmeli,S. K. Tunç,65,0
+Seçmeli,SENG 449,Special Topics in Software Engineering,3,0,Seçmeli,N. Çağıltay,30,0
+Seçmeli,SENG 445,Computer Vision,3,0,Seçmeli,T. Karadeniz,30,0
+Seçmeli,CENG 493,Introduction to Natural Language Processing,3,0,Seçmeli,Serdar Arslan,30,0
+Seçmeli,CENG 346,Compiler Design,3,0,Seçmeli,Hayri Sever,30,0
+Seçmeli,CENG 435,Introduction to Data Security and Cyr,3,0,Seçmeli,Atilla Bostan,30,0
+Seçmeli,CENG 464,Data Mining,3,0,Seçmeli,Gül Tokdemir,30,0
+Seçmeli,CENG 485,Introduction to Blockchain Technology,3,0,Seçmeli,Alper Ateş,30,0
+Servis,CENG 111,Computer Programming I,3,2,Servis,B. Avenoğlu,35,1
+Servis,CENG 114,Computer Programming II,3,2,Servis,N. Çağıltay,30,1
+Servis,CENG 161,Introduction to Computer Programming,3,2,Servis,T. Karadeniz,80,2
+Yüksek Lisans,CENG 595,Special Topics in Computer Engineering I,3,0,Yüksek Lisans,N. Çağıltay,30,0
+

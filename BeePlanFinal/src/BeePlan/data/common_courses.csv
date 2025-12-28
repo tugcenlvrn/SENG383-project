@@ -1,0 +1,20 @@
+Sınıf,Ders Kodu,Gün,Başlangıç,Bitiş,Şubeler (Grup)
+1. Sınıf,PHYS 131,Pzt / Çar,09:20,11:10,"(1, 4) "
+1. Sınıf,TURK 101,Pazartesi,11:20,13:10,(1)
+1. Sınıf,MATH 157,Pzt / Çar,13:20,15:10,"(1, 4) "
+1. Sınıf,ENG 121,Salı,09:20,12:10,(1)
+1. Sınıf,BIO 101,Perşembe,09:20,12:10,(1)
+1. Sınıf,PHYS 131 (Lab1),Cuma,15:20,17:10,Lab-2
+1. Sınıf,PHYS 131 (Lab2),Cuma,11:20,13:10,Lab-1
+---,---,---,---,---,---
+2. Sınıf,MATH 223,Salı / Per / Cum,09:20 / 11:20 / 09:20,11:10 / 13:10 / 11:10,"(1, 2) "
+2. Sınıf,PHYS 132,Çar / Cum,09:20,11:10,(1)
+2. Sınıf,PHYS 132 (Lab),Perşembe,09:20,11:10,Lab-1
+2. Sınıf,HIST 201,Pazartesi,12:20,14:10,(1)
+2. Sınıf,TURK 102,Salı,13:20,15:10,(1)
+---,---,---,---,---,---
+3. Sınıf,MATH 205,Çarşamba,09:20,12:10,(1)
+3. Sınıf,HIST 202,Cuma,10:20,12:10,(1)
+---,---,---,---,---,---
+Tümü,SINAV BLOĞU,Cuma,13:20,15:10,Tüm Şubeler (Yasaklı)
+

@@ -1,0 +1,3 @@
+parent1;pass123;PARENT;0;0;0
+teacher1;pass123;TEACHER;0;0;0
+kid1;pass123;KID;7;310;330

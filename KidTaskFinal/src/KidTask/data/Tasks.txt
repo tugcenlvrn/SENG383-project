@@ -1,0 +1,5 @@
+4;Odanı topla;odan dağınık hep düzelt;5;COMPLETED;HOME;kid1;parent1;0;2025-12-31
+3;fizik ödevi;15 soru;50;FINALIZED;SCHOOL;kid1;teacher1;4;2026-01-02
+5;mateatik ödevi;15 soru;10;FINALIZED;SCHOOL;kid1;teacher1;3;2026-01-01
+6;Ödev yap;fizik kimya ödevlerini yap;15;COMPLETED;HOME;kid1;parent1;0;2026-01-04
+7;Türkçe Ödevi;3 test;5;FINALIZED;SCHOOL;kid1;teacher1;2;2026-01-07

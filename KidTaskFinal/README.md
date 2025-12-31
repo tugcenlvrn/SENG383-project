@@ -1,6 +1,6 @@
 # KidTask - Task Management System
 
-Modern, dosya tabanlı görev yönetim masaüstü uygulaması. Glassmorphism tasarımı ile çocuklar, ebeveynler ve öğretmenler için kapsamlı bir görev takip sistemi.
+KidTask, Çankaya Üniversitesi Yazılım Mühendisliği Bölümü için geliştirilmiş profesyonel bir çocuk görev takip sistem uygulamasıdır.
 
 ## Özellikler
 
@@ -110,7 +110,7 @@ data/                               # Veri dosyaları
 
 ## Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
+Bu proje Çankaya Üniversitesi için geliştirilmiştir.
 
 
 
